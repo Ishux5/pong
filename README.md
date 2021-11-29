@@ -16,3 +16,10 @@ If the **Ball** hits the **Slider** while moving up or down the **Angle** betwee
 The x-Velocity of the **Ball** is fixed and will never change.
 
 Points are granted when the **Ball** gets behind the enemy **Slider**. The **Ball** ist reset to the middle of the playing field.
+
+## Python
+
+Modules:
+
+-   random
+-   pygame
